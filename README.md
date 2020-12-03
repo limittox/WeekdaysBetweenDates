@@ -28,7 +28,6 @@ The program runs in `O(1)` time complexity. But
     If the same holiday occurs again, then it would not be deducted from the business days (ran out of time to implement this).
 5. Console interface to input dates to test out the program.
 6. DateTime restricts the dates be from `1/1/0001` to `12/31/9999`. A new custom class might be needed to be made to extend the functionality to check between more dates.
-
-**7. I was unable to create a Web API through ASP.Net, as when I tried it couldn't find the program that I made. I am not sure why this would be the case.**
+7. **I was unable to create a Web API through ASP.Net, as when I tried it couldn't find the program that I made. I am not sure why this would be the case.**
 
 P.S. Very sorry about the delay. I have never programmed in C# before, I needed time to learn the syntax and get started. But really enjoyed the language, much easier to work with than Java
